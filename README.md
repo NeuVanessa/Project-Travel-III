@@ -2,12 +2,13 @@
 ..
 **Projeto Criado Durante o semestre 2020.2 da faculdade de analise de sistemas 🎓** 
 
-🔧 - Matéria: Linguagem de Progrmação JAVA III - Trabalhando com Eclipse
+🔧 - Matéria: Linguagem de Progrmação JAVA III SWING - Trabalhando com Eclipse
+🔧 - Objetivo: Conhecer e trabalhar com o SWING em projetos com JAVA, além da conectividade com o banco de dados, consultas, atualização e exclusão de usuário pude aprender vários conceitos com o java.
 🔧 - IDE: Eclipse Versão 2018
 
 Duração do Semestre
 
-Inicio 12/18/2020 até 03/12/2020
+Inicio 12/08/2020 até 03/12/2020
 
 1.Conhecendo o Swing 
 - [x] 	~~instalação e configuração do eclipse ✔️ 🔔 
